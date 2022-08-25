@@ -1,0 +1,60 @@
+html {
+  background-color: teal;
+  font-family: 'Raleway', sans-serif;
+  background-image: url("https://cdn.wallpapersafari.com/94/32/sYFUwn.jpg");
+}
+
+header {
+  color: azure;
+  opacity: 80%;
+  position: relative;
+  left: 500px;
+  width: 100%;
+}
+
+li {
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+  width: 500px;
+  color: azure;
+  font-size: 50px;
+  border: 3px solid white;
+  position: relative;
+  left: 350px;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  width: 400px;
+  margin: 0 auto;
+  position: relative;
+  top: 150px;
+  z-index: 2;
+}
+
+img {
+  position: relative;
+  left: 350px;
+  top: 20px;
+  opacity: 70%;
+}
+
+h5 {
+  width: 100px;
+  margin: 0 auto;
+  //border: 2px solid red;
+  padding-top: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.facts li {
+  text-align: center;
+}
